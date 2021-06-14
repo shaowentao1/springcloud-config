@@ -1,6 +1,2 @@
-server:
-  port: 3355
-
-spring:
-  application:
-    name:  hello
+mynmae: 
+  shaowentao
